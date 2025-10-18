@@ -108,5 +108,3 @@ Instituto Federal do Ceará — Campus Cedro
 Este projeto foi desenvolvido para fins **educacionais** e não possui fins comerciais.
 
 ---
-
-quer que eu adicione uma versão mais curta (para deixar no GitHub sem parecer tão acadêmico) ou quer manter esse estilo formal universitário?
